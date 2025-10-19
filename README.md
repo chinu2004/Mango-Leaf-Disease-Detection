@@ -1,4 +1,4 @@
-🌿 Mango Leaf Disease Detection System
+# 🌿 Mango Leaf Disease Detection System
 
 The Mango Leaf Disease Detection System is an AI + IoT-based smart agriculture solution that detects mango leaf conditions such as:
 1.Webber disease
@@ -33,6 +33,9 @@ Pump Motor	Sprays medicine automatically
 ✅ Smart distance-based activation (20–40 cm)
 ✅ Audible buzzer to ensure the signal is transmitted to motor controller  
 ✅ Medicine and timing recommendations
+
+# video
+link : https://drive.google.com/file/d/1Y1VQot_QWIXhQ7yMFXbftQW5pZIfhxzA/view?usp=sharing
 
  
  
